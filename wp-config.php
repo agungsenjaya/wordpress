@@ -1,4 +1,5 @@
 <?php
+define( 'FS_METHOD', 'direct' );
 /**
  * The base configuration for WordPress
  *
